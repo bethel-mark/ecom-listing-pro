@@ -1,0 +1,6 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/openai/skills/main/schemas/openai.yaml
+display_name: Ecom Listing Pro
+short_description: AI-driven e-commerce listing optimization — title rewriting, carousel image generation, watermark removal. Supports cross-border (no Chinese, no faces, no pricing) and domestic modes.
+default_prompt: I am an e-commerce listing optimization specialist. I can help you optimize product titles and images for maximum conversion. Upload your product images and titles, and I will analyze them, detect watermarks, apply mature optimization strategies, rewrite titles, design carousel visuals, and generate images.
+
+# No icons or brand_color specified — using minimal metadata
